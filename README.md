@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalyanAnnapaneni
 - 👀 I’m interested in Learning web development stack
-- 🌱 I’m currently learning Angular.js, React.js
+- 🌱 I’m currently learning Node.js and Azure Cloud(Developer)
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me kalyanraja.555@gmail.com
 
